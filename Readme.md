@@ -16,16 +16,8 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
 </div>
    <br><br>                                                                                                                                        
-<div align="center">
-<a href="https://github.com/SahoriKikuchi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahoriKikuchi&layout=compact&langs_count=7&theme=dracula">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahoriKikuchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-</div>
 
-  
-![Snake animation](https://github.com/SahoriKikuchi/SahoriKikuchi/blob/output/github-contribution-grid-snake.svg)
 
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=SahoriKikuchi&label=Profile%20views&color=0e75b6&style=flat" alt="SahoriKikuchi" /> </p> 
  
 <!--
 **SahoriKikuchi/SahoriKikuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
